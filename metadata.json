@@ -1,0 +1,6 @@
+{
+  "name": "Cogniflow",
+  "description": "Self-Improving AI Agent with Goal Drift Detection and XAI.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": []
+}
